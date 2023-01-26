@@ -1,0 +1,3 @@
+﻿  Exceptions assignment.cpp
+C:\Users\alexb\source\repos\Exceptions assignment\Exceptions assignment.cpp(36,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Exceptions assignment.vcxproj -> C:\Users\alexb\source\repos\Exceptions assignment\x64\Debug\Exceptions assignment.exe
